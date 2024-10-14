@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nama": "Andi Wijaya",
+    "npm": "202210001",
+    "email": "andi.wijaya@example.com",
+    "jurusan": "Teknik Informatika",
+    "alamat": {
+      "jalan": "Jl. Merdeka No. 10",
+      "kota": "Jakarta",
+      "provinsi": "DKI Jakarta",
+      "kodePos": "10110"
+    },
+    "hobi": ["Membaca", "Basket", "Coding"],
+    "angkatan": 2022,
+    "mediaSosial": {
+      "instagram": "@andi_wijaya",
+      "facebook": "fb.com/andi.wijaya",
+      "twitter": "@andi_wj",
+      "linkedin": "linkedin.com/in/andi-wijaya"
+    }
+  },
+  {
+    "id": 2,
+    "nama": "Budi Santoso",
+    "npm": "202210002",
+    "email": "budi.santoso@example.com",
+    "jurusan": "Sistem Informasi",
+    "alamat": {
+      "jalan": "Jl. Sudirman No. 20",
+      "kota": "Bandung",
+      "provinsi": "Jawa Barat",
+      "kodePos": "40115"
+    },
+    "hobi": ["Fotografi", "Traveling"],
+    "angkatan": 2022,
+    "mediaSosial": {
+      "instagram": "@budi_santoso",
+      "facebook": "fb.com/budi.santoso",
+      "twitter": "@budi_snt",
+      "linkedin": "linkedin.com/in/budi-santoso"
+    }
+  },
+  {
+    "id": 3,
+    "nama": "Citra Lestari",
+    "npm": "202210003",
+    "email": "citra.lestari@example.com",
+    "jurusan": "Teknik Elektro",
+    "alamat": {
+      "jalan": "Jl. Gajah Mada No. 5",
+      "kota": "Surabaya",
+      "provinsi": "Jawa Timur",
+      "kodePos": "60234"
+    },
+    "hobi": ["Menulis", "Sepak Bola", "Desain Grafis"],
+    "angkatan": 2022,
+    "mediaSosial": {
+      "instagram": "@citra_lestari",
+      "facebook": "fb.com/citra.lestari",
+      "twitter": "@citra_lst",
+      "linkedin": "linkedin.com/in/citra-lestari"
+    }
+  }
+]

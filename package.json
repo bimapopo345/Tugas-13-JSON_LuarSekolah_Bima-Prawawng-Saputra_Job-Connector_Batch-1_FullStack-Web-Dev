@@ -1,0 +1,12 @@
+{
+  "name": "best-practice-api",
+  "version": "1.0.0",
+  "description": "Proyek ini berisi file JSON yang memuat detail profil mahasiswa, termasuk informasi media sosial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tidak ada tes yang disediakan\" && exit 0"
+  },
+  "author": "Nama Anda",
+  "license": "MIT",
+  "dependencies": {}
+}
